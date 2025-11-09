@@ -20,7 +20,7 @@
 
 
 
-\### Additional (to add next)
+\### Additional 
 
 \- \*\*cloudformation-stack-success.png\*\* – CloudFormation stack created successfully.
 
